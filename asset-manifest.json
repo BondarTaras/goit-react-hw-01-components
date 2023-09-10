@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BondarTaras/static/css/main.7acaea2f.css",
-    "main.js": "/BondarTaras/static/js/main.07d3183d.js",
+    "main.css": "/BondarTaras/static/css/main.b92fd369.css",
+    "main.js": "/BondarTaras/static/js/main.ed6bc073.js",
     "index.html": "/BondarTaras/index.html",
-    "main.7acaea2f.css.map": "/BondarTaras/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/BondarTaras/static/js/main.07d3183d.js.map"
+    "main.b92fd369.css.map": "/BondarTaras/static/css/main.b92fd369.css.map",
+    "main.ed6bc073.js.map": "/BondarTaras/static/js/main.ed6bc073.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.b92fd369.css",
+    "static/js/main.ed6bc073.js"
   ]
 }
